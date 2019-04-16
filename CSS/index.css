@@ -1,0 +1,46 @@
+#startBtn {
+  display: inline-block;
+  border-radius: 4px;
+  border-color: black;
+  background-color: transparent;
+  color: black;
+  text-align: center;
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+}
+
+#startBtn:hover {
+  transition: all 0.5s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#menuText {
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-Size: 100px;
+  text-align:center;
+
+}
+
+#gameText {
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-size: 30px;
+  text-align:center;
+}
+
+#infoText {
+  display: inline-block;
+  border-radius: 4px;
+  border: none;
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-size: 25px;
+  text-align:center;
+  color:black;
+  padding: 5px;
+}
+
+#infoText:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
