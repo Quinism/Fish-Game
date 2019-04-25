@@ -3,11 +3,14 @@
 <title> Fish Game! </title>
 <script src=".\Libraries\simply.js"> </script>
 <script src="Javascript/game.js"> </script>
-
+<link rel="stylesheet" type="text/css" href=".\CSS\game.css">
 
 </head>
 
 <body onload="start()">
-<div id="target" style="margin:auto;background:grey;"></div>
+
+<div id="target" onload="reset()" style="margin:auto;background:grey;" style="z-index: 20">
+</div>
+
 </body>
 </html>

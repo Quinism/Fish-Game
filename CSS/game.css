@@ -1,0 +1,21 @@
+#scoreText{
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-Size: 35px;
+  text-align:center;
+}
+
+
+#myProgress {
+  width: 50%;
+  background-color: grey;
+  margin: auto;
+  position: absolute;
+}
+
+#myBar {
+  position: absolute;
+  width: 1%;
+  height: 30px;
+  background-color: green;
+
+}

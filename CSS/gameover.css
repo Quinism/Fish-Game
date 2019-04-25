@@ -1,0 +1,53 @@
+#gameoverText {
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-Size: 100px;
+  text-align:center;
+
+}
+
+#returnButton {
+  display: inline-block;
+  border-radius: 1px;
+  border-color: black;
+  background-color: transparent;
+  color: black;
+  text-align: center;
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-size: 28px;
+  padding: 20px;
+  height: 100px;
+  width: 200px;
+  cursor: pointer;
+}
+
+#returnButton:hover {
+  transition: all 0.5s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+#tryAgainButton {
+  display: inline-block;
+  border-radius: 1px;
+  border-color: black;
+  background-color: transparent;
+  color: black;
+  text-align: center;
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-size: 28px;
+  padding: 20px;
+  height: 100px;
+  width: 200px;
+  cursor: pointer;
+}
+
+#tryAgainButton:hover {
+  transition: all 0.5s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#scoreText{
+  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  font-Size: 35px;
+  text-align:center;
+}
